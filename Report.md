@@ -1,22 +1,22 @@
-Name:
+Name: Adrian Hinojosa
 
-EID:
+EID: afh663
 
-Team Number:
+Team Number: 7
 
 ## Questions
 
 1. Why does your program need a setup and a loop?
 
-    your answer here
+    This computer is typically used for functions that would just run on repeat for extended periods of time so the device needs to know what to run once for initialization and then what to run indefintely.
 
 2. What is the downside to putting all your code in a loop?
 
-    your answer here
+    Putting all of your code in a loop means that you will be initializing values that might not be changing, sacrificing speed and possibly storage, as well can make your code cluttered and hard to read.
 
 3. Why does your code need to be compiled?
 
-    your answer here
+    Compiling the code turns the code from the program's language into binary as well as clears and loads the ROM.
 
 4. When lowering the frequency in procedure A, step 4, what is going wrong? Brainstorm some solutions. Dimmers exist in the real world. What is their solution?
 
@@ -30,7 +30,7 @@ Team Number:
 
     your answer here
 
-7. Profile of UART: Sent X bytes in Y time 
+7. Profile of UART: Sent X bytes in Y time
 
     your answer here
 
