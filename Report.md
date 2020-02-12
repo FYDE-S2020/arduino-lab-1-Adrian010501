@@ -61,13 +61,13 @@ Team Number: 7
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/image1.PNG)
+![Put path to your image here ->](img/image1.png)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/image2.PNG)
+![Put path to your image here ->](img/image2.png)
 
 Procedure B, UART:
-![Put path to your image here ->](img/image3.PNG)
+![Put path to your image here ->](img/image3.png)
 
 Procedure B, SPI:
-![Put path to your image here ->](img/image4.PNG)
+![Put path to your image here ->](img/image4.png)
